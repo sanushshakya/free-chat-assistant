@@ -18,7 +18,7 @@ This project is created to help you chat with the deepseek ai using a local olla
 
 - open terminal 
 - ensure that the ollama is installed
-- Run `ollama run deepseek-r1` (or any other model)
+- Run `ollama run deepseek-r1 7b` (or any other model)
 
 ## How to use the local server in js
 
