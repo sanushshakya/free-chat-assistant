@@ -31,3 +31,5 @@ This project is created to help you chat with the deepseek ai using a local olla
 
 ## Note:
 - Try using cursor for coding, it's a game changer for AI developer.
+
+![Screenshot 2025-02-02 at 1 46 31 PM](https://github.com/user-attachments/assets/36278a9e-6c51-48ab-a499-1128d7520d32)
